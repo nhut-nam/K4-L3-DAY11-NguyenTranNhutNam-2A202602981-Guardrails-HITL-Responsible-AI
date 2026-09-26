@@ -1,8 +1,11 @@
 # Day 11 — Controlled Agent Security (2026)
 
-> 👤 **Hình thức:** bài tập **cá nhân** (1 người / 1 MSSV).  
+> 👤 **Học viên:** Nguyễn Trần Nhứt Nam  
+> 🆔 **MSSV:** 2A202602981  
+> 📂 **Repo:** `K4-L3-DAY11-NguyenTranNhutNam-2A202602981-Guardrails-HITL-Responsible-AI`  
 > 🎯 **Mục tiêu:** xây **Blue** (phòng thủ), rồi red-team **Red** + **Red Advance**.  
-> ✅ Làm theo **Checkpoint 1 → 5** trong [`CHECKPOINTS.md`](CHECKPOINTS.md) · nộp theo [`SUBMISSION.md`](SUBMISSION.md).
+> ✅ **Trạng thái:** Đã hoàn thành 5/5 Checkpoints · 16/16 tests pass · `technical_failure: False`.  
+> 📄 **Báo cáo tự sinh:** Xem [`outputs/lab_report.md`](outputs/lab_report.md) & [`outputs/grade_report.json`](outputs/grade_report.json).
 
 ---
 

@@ -1,4 +1,4 @@
-﻿# Lộ trình Checkpoints — Day 11 Guardrails / HITL / Red Team
+# Lộ trình Checkpoints — Day 11 Guardrails / HITL / Red Team
 
 > ⏱️ **Tổng:** Setup 30' + Lab ~130' (phòng thủ ~90' · tấn công ~30' · nộp ~10').  
 > 👤 **Cá nhân** · Làm **đúng thứ tự** Checkpoint 1 → 5.  
@@ -621,10 +621,10 @@ Push lên fork GitHub → nộp **link repo** theo `[SUBMISSION.md](SUBMISSION.m
 
 ### Checklist Pass
 
-- [ ] `outputs/results.json` tồn tại và khớp schema
-- [ ] `outputs/attack_results.json` tồn tại (có Red + advance)
-- [ ] Không commit `.env` / API key
-- [ ] Đã push + nộp link đúng hạn
+- [x] `outputs/results.json` tồn tại và khớp schema
+- [x] `outputs/attack_results.json` tồn tại (có Red + advance)
+- [x] Không commit `.env` / API key
+- [x] Sẵn sàng push + nộp link đúng hạn
 
 ---
 
